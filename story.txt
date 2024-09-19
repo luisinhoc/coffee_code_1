@@ -1,0 +1,5 @@
+Vamos escrever uma história em conjunto. O tema é: "Se eu tivesse um Ferrari..."
+Cada um escreve uma frase numa unica linha, sendo que a frase tem de acabar com "e" ou "mas"
+Eu começo...
+Ia dar uma volta pela cidade e
+
