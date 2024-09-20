@@ -3,3 +3,5 @@ Cada um escreve uma frase numa unica linha, sendo que a frase tem de acabar com 
 Eu começo...
 Ia dar uma volta pela cidade e
 
+O Pinheiro quer umas batatas
+
